@@ -20,9 +20,9 @@ Required toolboxes:
 
 ### 🔢 Basic Steps
 <!-- 1. Sketch out the system on the paper and derive the **governing equations**. -->
-1. Approach the multidomain world by replacing the ideal controller with a DC motor.
-2. Add a gearbox to th.
-2. Add noise and quantization to the feedback to simulate encoder behaviour.
+1. Approach the multidomain world by adding a DC motor to control the pendulum.
+2. Add a gearbox to the system with its own damping and inertia.
+3. Add noise and quantization to the feedback to simulate encoder behaviour.
 
 With MATLAB you can design, simulate, and implement controllers for more complicated systems such as an [inverted pendulum](https://mathworks.com/videos/inverted-pendulum-control-with-simmechanics-and-quarc-106862.html).
 
