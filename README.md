@@ -19,7 +19,6 @@ Required toolboxes:
  - Simscape multibody
 
 ### 🔢 Basic Steps
-<!-- 1. Sketch out the system on the paper and derive the **governing equations**. -->
 1. Approach the multidomain world by adding a DC motor to control the pendulum.
 2. Add a gearbox to the system with its own damping and inertia.
 3. Add noise and quantization to the feedback to simulate encoder behaviour.
