@@ -1,8 +1,9 @@
-👨‍🔬 Modeling a motor-controlled Pendulum in Simscape
+👨‍🔬 Modeling a motor-controlled pendulum in Simscape
 =================================
 
 This tutorial is builds up on the concepts laid out in the following instructional repository: [icub-tech-iit/training-matlab-pendulum](https://github.com/icub-tech-iit/training-matlab-pendulum) . In there, the pendulum is modelled and controlled by first writing down the governing equations, then by moving to the Simscape Multibody environment.
-Here we enter in the multidomain field. We make the model more realistic by adding a DC motor and model the encoder characteristics. 
+
+Here we enter in the multidomain field: we make the model more realistic by adding a DC motor and model the encoder noise characteristics. 
 
 | |
 | :---: |
