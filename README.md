@@ -1,4 +1,4 @@
-👨‍🔬 Modeling a Pendulum in Simscape
+👨‍🔬 Modeling a motor-controlled Pendulum in Simscape
 =================================
 
 This tutorial is builds up on the concepts laid out in the following instructional repository: [icub-tech-iit/training-matlab-pendulum](https://github.com/icub-tech-iit/training-matlab-pendulum) . In there, the pendulum is modelled and controlled by first writing down the governing equations, then by moving to the Simscape Multibody environment.
