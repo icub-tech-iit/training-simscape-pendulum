@@ -27,7 +27,6 @@ Tutorials:
 
 ### 🔢 Basic Steps
 1. Approach the multidomain world by adding a voltage-controlled DC motor and a gearbox to control the pendulum.
-2. Add damping and inertia to the gearbox.
-3. Digitize the controller, then add noise and quantization to the feedback to simulate encoder behavior.
+2. Digitize the controller, then add noise and quantization to the feedback to simulate encoder behavior.
 
 With MATLAB you can design, simulate, and implement controllers for more complicated systems such as an [inverted pendulum](https://mathworks.com/videos/inverted-pendulum-control-with-simmechanics-and-quarc-106862.html).
